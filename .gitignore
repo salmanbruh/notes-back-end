@@ -1,1 +1,5 @@
 node_modules
+notes-api-webserver.pem
+ssh.txt
+.env
+.prod.env
